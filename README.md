@@ -17,7 +17,7 @@ Role: Full Stack Developer & AI Engineer
 
 Languages: Python, Java, Go, JavaScript
 
-Interests: Artificial Intelligence, Machine Learning, Generative AI (GenAI) ,AI Agents, Automation
+Interests: Artificial Intelligence, Machine Learning, Generative AI (GenAI), AI Agents, Automation
 
 Currently Learning: Advanced DSA, System Design, Applied Machine Learning, Cloud Architecture
 
