@@ -15,7 +15,7 @@ Name: H Ganapathi Kamath
 
 Role: Full Stack Developer & AI Engineer
 
-Languages: Python, Java, Go, JavaScript
+Languages: Python, Java, JavaScript
 
 Interests: Artificial Intelligence, Machine Learning, Generative AI (GenAI), AI Agents, Automation
 
